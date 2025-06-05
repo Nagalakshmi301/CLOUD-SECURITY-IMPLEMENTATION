@@ -40,10 +40,9 @@ MENTOR: NEELA SANTHOSH
 - [S3 Encryption Settings]
 
 
-
+![Image](https://github.com/user-attachments/assets/858e0e1b-79f2-4bf7-9ab0-120075bce705)
 ![Image](https://github.com/user-attachments/assets/b50af4c3-ab9e-4f30-9192-5ee6b00f90c5)
 ![Image](https://github.com/user-attachments/assets/1e278c31-249f-4f0c-b0dc-1531bbf73132)
-![Image](https://github.com/user-attachments/assets/858e0e1b-79f2-4bf7-9ab0-120075bce705)
 ![Image](https://github.com/user-attachments/assets/b1505774-aa95-4974-89e3-90360ed1d139)
 ![Image](https://github.com/user-attachments/assets/4c41bd72-4f33-4f0e-b251-663e85edf1d4)
 ![Image](https://github.com/user-attachments/assets/9edb94f3-a407-4e1e-8704-91d5f1be2d4e)
