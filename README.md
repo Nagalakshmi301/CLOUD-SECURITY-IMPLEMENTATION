@@ -31,9 +31,8 @@ MENTOR: NEELA SANTHOSH
 ## 3. Data Encryption
 - Enabled server-side encryption (SSE-S3) on S3 bucket.
 - Created and used AWS KMS key for encryption.
-- Applied encryption on EC2 volumes.
 
-## Screenshots:
+## OUTPUT:
 - [IAM User Creation]
 - [Bucket Policy Settings]
 - [KMS Key Configuration]
